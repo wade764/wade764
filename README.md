@@ -61,7 +61,7 @@
 
 ---
 
-[![Wade's GitHub stats](https://github-readme-stats.vercel.app/api?username=wade764&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Wade's GitHub stats](https://github-readme-stats.vercel.app/api?username=wade764&show_icons=true&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
