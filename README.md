@@ -1,6 +1,6 @@
 ### Hello 👋, welcome to my Github page! My name is Wade - aka [wade764][website]
 
-## I'm a tech enthusiast with a wide range of knowledge on various projects. I am currently completing my BS degree in Computer Science and Cybersecurity. I love coding and solving challenging problems. I also enjoy learning about music and have studied different instruments over the years. I am always tinkering with some tech project, and this summer, I have been building my arcade cabinet!
+## I'm a tech enthusiast with a wide range of knowledge on various projects. I am currently completing my BS degree in Computer Science and Cybersecurity. I love coding and solving challenging problems. I also enjoy learning about music and have studied different instruments over the years. I am always tinkering with some tech project, and this summer, I have been building my own arcade cabinet!
 - 🔭 I'm currently working on a [Malware Analysis Certification][pjmr]!
 - 🌱 I'm currently learning C++ and web development
 - 👯 I'm looking to collaborate on a Software security project
