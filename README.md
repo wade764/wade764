@@ -1,7 +1,7 @@
-### Hello 👋, welcome to my Github page! My name is Wade - aka [wade764][wadetech.net]
+### Hello 👋, welcome to my Github page! My name is Wade - aka [wade764][website]
 
 ## I'm a tech enthusiast with a wide range of knowledge on various projects. I am currently completing my BS degree in Computer Science and Cybersecurity. I love coding and solving challenging problems. I also enjoy learning about music and have studied different instruments over the years. I am always tinkering with some tech project, and this summer, I have been building my arcade cabinet!
-- 🔭 I'm currently working on a [Malware Analysis Certification][https://certifications.tcm-sec.com/pjmr/]
+- 🔭 I'm currently working on a [Malware Analysis Certification][pjmr]!
 - 🌱 I'm currently learning C++ and web development
 - 👯 I'm looking to collaborate on a Software security project
 - 🤔 I'm looking for help with finding a job
@@ -42,9 +42,11 @@
 <br />
 <br />
 
+[pjmr]: https://certifications.tcm-sec.com/pjmr/
+
 [website]: http://wadetech.net/
 [linkedin]: https://www.linkedin.com/in/wadenelsoncompnerd/
-[youtube]: https://www.youtube.com/@waden9933 
+[youtube]: https://www.youtube.com/@waden9933
 
 [android]: https://github.com/topics/android
 [aws]: https://github.com/topics/aws
