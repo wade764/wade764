@@ -46,6 +46,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Drone Flight 4 16Jan2023](https://www.youtube.com/watch?v=IOuU2qntMFM)
+- [Drone Flight 3 16Jan2023](https://www.youtube.com/watch?v=tLzoOGiw_oo)
+- [Drone Flight 2 16Jan2023](https://www.youtube.com/watch?v=kO9-JmlL4Us)
+- [Drone Flight 1 16Jan2023](https://www.youtube.com/watch?v=YlnrENLGng4)
+- [DJI Mini Pro 3 Drone Flight](https://www.youtube.com/watch?v=YpEPBl_iDXc)
 <!-- YOUTUBE:END -->
 
 ---
