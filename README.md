@@ -42,9 +42,21 @@
 <br />
 <br />
 
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 ### 💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+### This page was created with the help of [codeSTACKr][videoSource].
+
 
 [pjmr]: https://certifications.tcm-sec.com/pjmr/
 
@@ -71,3 +83,6 @@
 [raspberry-pi]: https://github.com/topics/raspberry-pi
 [terminal]: https://github.com/topics/terminal
 [vim]: https://github.com/topics/vim
+
+
+[videoSource]: https://youtu.be/ECuqb5Tv9qI
