@@ -59,6 +59,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Wade's GitHub stats](https://github-readme-stats.vercel.app/api?username=wade764&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wade764)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### This page was created with the help of [codeSTACKr][videoSource].
 
