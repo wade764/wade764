@@ -8,7 +8,7 @@
 - 💬 Ask me about maintaining best security practices and maintaining servers/firewalls
 - 📫 How to reach me: tautology467@pm.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Submarine Force Veteran and love learning!
+- ⚡ Fun fact: I am a Submarine Force Veteran, I love learning and I collect [Pokémon cards][pokemon]!
 - 🚂 Future Goals: I want to contribute more to Open Source projects and work on a Master of Computer Engineering degree.
 
 ### Connect with me:
@@ -51,6 +51,8 @@
 [website]: http://wadetech.net/
 [linkedin]: https://www.linkedin.com/in/wadenelsoncompnerd/
 [youtube]: https://www.youtube.com/@waden9933
+
+[pokemon]: https://www.psacard.com/psasetregistry/nelsonwm764/profile/355171
 
 [android]: https://github.com/topics/android
 [aws]: https://github.com/topics/aws
