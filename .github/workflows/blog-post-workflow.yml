@@ -14,7 +14,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      # changed from: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           # The feed list is a comma separated string
-          feed_list: "https://www.youtube.com/feed/@wade9933"
+          feed_list: "" # "https://www.youtube.com/feed/@wade9933, https://dev.to/feed/wade764"
