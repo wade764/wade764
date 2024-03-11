@@ -1,10 +1,9 @@
 ### Hello 👋, welcome to my Github page! My name is Wade - aka [wade764][website]
 
 ## I'm a tech enthusiast with a wide range of knowledge on various projects. I hold a BS degree in Computer Science and Cybersecurity from The University of Mary Washington. I love coding and solving challenging problems. I also enjoy learning about music and have studied different instruments over the years. I am always tinkering with some tech project, and currently my last project was learning more about LoRa communications with Meshtastic!
-- 🔭 I'm currently working on a [Malware Analysis Certification][pjmr]!
-- 🌱 I'm currently learning Software Reverse Engineering techniques.
+- 🔭 I'm currently working on a developing my C++ skills as well as continue to learn cybersecurity/Malware Analysis skills!
 - 👯 I'm looking to collaborate on a Software security project
-- 🤔 I'm looking for help with finding a job
+- 🤔 I work full time as a C++ developer
 - 💬 Ask me about maintaining best security practices and maintaining servers/firewalls
 - 📫 How to reach me: tautology467@pm.me
 - 😄 Pronouns: He/Him
