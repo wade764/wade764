@@ -45,11 +45,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [DJI Mini Pro 3 - Charlottesville - July2024](https://www.youtube.com/watch?v=xl4CFFXzs_4)
-- [Drone Flight 4 16Jan2023](https://www.youtube.com/watch?v=IOuU2qntMFM)
-- [Drone Flight 3 16Jan2023](https://www.youtube.com/watch?v=tLzoOGiw_oo)
-- [Drone Flight 2 16Jan2023](https://www.youtube.com/watch?v=kO9-JmlL4Us)
-- [Drone Flight 1 16Jan2023](https://www.youtube.com/watch?v=YlnrENLGng4)
+<!-- - [DJI Mini Pro 3 - Charlottesville - July2024](https://www.youtube.com/watch?v=xl4CFFXzs_4) -->
+<!-- - [Drone Flight 4 16Jan2023](https://www.youtube.com/watch?v=IOuU2qntMFM) -->
+<!-- - [Drone Flight 3 16Jan2023](https://www.youtube.com/watch?v=tLzoOGiw_oo) -->
+<!-- - [Drone Flight 2 16Jan2023](https://www.youtube.com/watch?v=kO9-JmlL4Us) -->
+<!-- - [Drone Flight 1 16Jan2023](https://www.youtube.com/watch?v=YlnrENLGng4) -->
 <!-- YOUTUBE:END -->
 
 ---
@@ -70,13 +70,13 @@
 ### This page was created with the help of [codeSTACKr][videoSource].
 
 
-[pjmr]: https://certifications.tcm-sec.com/pjmr/
+<!-- [pjmr]: https://certifications.tcm-sec.com/pjmr/ -->
 
-[website]: http://wadetech.net/
-[linkedin]: https://www.linkedin.com/in/wadenelsoncompnerd/
-[youtube]: https://www.youtube.com/@waden9933
+<!-- [website]: http://wadetech.net/ -->
+<!-- [linkedin]: https://www.linkedin.com/in/wadenelsoncompnerd/ -->
+<!-- [youtube]: https://www.youtube.com/@waden9933 -->
 
-[pokemon]: https://www.psacard.com/psasetregistry/nelsonwm764/profile/355171
+<!-- [pokemon]: https://www.psacard.com/psasetregistry/nelsonwm764/profile/355171 -->
 
 [android]: https://github.com/topics/android
 [aws]: https://github.com/topics/aws
